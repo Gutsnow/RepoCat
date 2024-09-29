@@ -1,6 +1,6 @@
 # RepoCat 🐱
 
-RepoCat é uma aplicação web simples que permite aos usuários buscar e visualizar os repositórios do GitHub de qualquer usuário. Utilizando a API pública do GitHub, o RepoCat exibe uma lista dos repositórios do usuário com detalhes importantes como nome, descrição, número de estrelas e linguagens usadas.
+RepoCat é uma aplicação web simples que permite aos usuários buscar e visualizar os repositórios do GitHub de qualquer usuário. Utilizando a API pública do GitHub, o RepoCat exibe o repositório do usuário com detalhes importantes como nome, descrição.
 
 ## Tecnologias Utilizadas 🚀
 
@@ -19,9 +19,7 @@ RepoCat é uma aplicação web simples que permite aos usuários buscar e visual
 - Exibe informações detalhadas de cada repositório:
   - Nome do repositório
   - Descrição
-  - Número de estrelas
-  - Linguagens usadas
-- Permite remover repositórios da lista exibida.
+  - Permite remover repositórios da lista exibida.
 
 ## Como Rodar o Projeto Localmente 🔧
 
